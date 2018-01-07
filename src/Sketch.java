@@ -1,9 +1,6 @@
 import processing.core.PApplet;
 import processing.event.KeyEvent;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Sketch extends PApplet {
 
     int x = 870;
